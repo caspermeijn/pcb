@@ -603,7 +603,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7312cb70-110f-4cee-8bbd-7eaa80b9790a)
     )
-    (fp_text value "MCP6002-xP" (at 3.81 9.95) (layer "F.Fab")
+    (fp_text value "NE5532N" (at 3.81 9.95) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5c6fed73-eeee-4654-a537-1aba439cb646)
     )
